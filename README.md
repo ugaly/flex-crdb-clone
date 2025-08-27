@@ -20,3 +20,6 @@ npm install
 
 # 4. Start the development server
 npm run dev
+
+# 5. Accessing on browser
+http://localhost:5173
